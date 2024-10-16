@@ -1,5 +1,3 @@
-package DasproJobsheet7;
-
 import java.util.Scanner;
 
 public class SiakadFor18 {
